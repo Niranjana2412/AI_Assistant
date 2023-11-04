@@ -1,2 +1,2 @@
 # AI_Assistant
-An AI assistant using LangChain, OpenAI and NLP
+An AI assistant using LangChain, OpenAI, NLP, and Apache Cassandra 
